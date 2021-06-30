@@ -1,0 +1,6 @@
+Cálculo I;6;7.5
+Desenho Técnico;3;7.98
+Intro. Lab. Analítica;1;8.9
+Intro. Lab. Geral;1;9
+Intro à EQ I;3;9.5
+Química Geral;6;7.2
